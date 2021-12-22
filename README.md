@@ -7,5 +7,5 @@ Here is something about me:
 - 📫 How to reach me: sangjeedondrub@live.com
 - 😄 Pronouns: Sangjee
 - ⚡ Fun fact: 
-  + ✌ I have been using Emacs user for 10+ years
+  + ✌ I have been using Emacs for 10+ years
   + ❤️ I am a Tibetan
